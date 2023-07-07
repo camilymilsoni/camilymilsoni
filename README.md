@@ -14,11 +14,6 @@ Aqui compartilho os meus estudos na área de tecnologia e também os projetos de
 
 ---
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilymilsoni&hide=html&layout=compact&theme=buefy"/></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=camilymilsoni&theme=buefy"/></td>
-    </tr>   
-  </table>
-</center> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=camilymilsoni&theme=buefy">
+</p>
