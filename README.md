@@ -1,4 +1,4 @@
-## Olá! <img src="https://github.com/camilymilsoni/camilymilsoni/blob/main/Hi.gif" width="30px">
+## Olá! <img src="https://github.com/camilymilsoni/camilymilsoni/Hi.gif" width="30px">
 
 Eu me chamo Camily e sou estudante de Sistemas de Informação no Instituto Federal de São Paulo. :computer: 
 
