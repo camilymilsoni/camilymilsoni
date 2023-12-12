@@ -2,7 +2,7 @@
 
 Eu me chamo Camily e sou estudante de Sistemas de Informação no Instituto Federal de São Paulo. :computer: 
 
-Aqui compartilho os meus estudos na área de tecnologia e também os projetos desenvolvidos durante a faculdade. :slightly_smiling_face:
+Aqui compartilho os meus estudos na área de tecnologia e também os projetos desenvolvidos durante a faculdade. 
 
 ---
 
